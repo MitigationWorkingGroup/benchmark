@@ -1,0 +1,13 @@
+The software benchmark for ARMs includes these codes:
+
+1. Cache test,
+2. Quick sort,
+3. CoreMark,
+4. AES-128,and
+5. Matrix Multiply.
+
+Heather Quinn from Los Alamos National Laboratory created these programs for the ARM.
+At this stage, the files still need to be cleared for public release so that these
+codes can be placed on git.
+
+If you need the files, contact Heather directly at hquinn@lanl.gov to get the files.
